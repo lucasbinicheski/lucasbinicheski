@@ -122,4 +122,4 @@ Tenho experiência sólida em:
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbinicheski&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbinicheski&hide=contribs,prs)
