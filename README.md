@@ -2,20 +2,36 @@
 
 **`Desenvolvedor Frontend Sênior`**
 
-Me chamo Lucas Mangabeira Binicheski, tenho 23 anos e sou natural de Brasília. Formado em Ciência da Computação sou apaixonado por criar soluções completas e escaláveis. Trabalho principalmente com React Native, Next.js, TypeScript, NestJS e PostgreSQL, sempre buscando boa arquitetura, organização e código limpo.
-
-Tenho experiência sólida em:
+Me chamo Lucas Mangabeira Binicheski, tenho 23 anos e sou natural de Brasília. Formado em Ciência da Computação sou apaixonado por criar soluções completas e escaláveis. Trabalho principalmente com ReactJS/Native, Next.js, TypeScript, NestJS e PostgreSQL, sempre buscando boa arquitetura, organização e código limpo.
+<br/>
+<br/>
+Com mais de 5 anos de experiência, <br/>Tenho conhecimentos sólidos em:
 
 - Desenvolvimento mobile com React Native + Expo
-- Frontend com Next.js, Material UI e Tailwind CSS
-- APIs robustas com NestJS e PostgreSQL
-- Gerenciamento de estado com React Query e Jotai
-- Validação com Zod
-- Formulários com React Hook Form
+- Frontend com Next.js, React.js, Angular
+- APIs robustas com Express/NestJS e PostgreSQL
+- Gerenciamento de estado com React Query, Jotai, Redux
 - Integração com Axios e boas práticas de requisições
 
 ---
 
+Alguns Projetos Públicos:
+- https://advocaciabini.com.br/
+- https://dash-contrato-digital.vercel.app/ MVP ('lucas@gmail.com' | 123123lucas@gmail.com)
+- https://vlimob.vercel.app/ MVP
+- https://carona-na-brisa.vercel.app/ MVP
+
+
+---
+
+Órgãos em que atuo/atuei no desenvolvimento de sistemas/Apps
+
+- CODHAB - Companhia de Desenvolvimento Habitacional do Distrito Federal
+- CREADF - Conselho Regional de Engenharia e Agronomia do Distrito Federa
+- NOVACAP - Companhia Urbanizadora da Nova Capital
+- ANATER - Agência Nacional de Assistência Técnica e Extensão Rural
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
