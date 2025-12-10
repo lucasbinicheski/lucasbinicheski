@@ -17,7 +17,7 @@ Com mais de 5 anos de experiência, <br/>Tenho conhecimentos sólidos em:
 
 Alguns Projetos Públicos:
 - https://advocaciabini.com.br/
-- https://dash-contrato-digital.vercel.app/ MVP ('lucas@gmail.com' | 123123lucas@gmail.com)
+- https://dash-contrato-digital.vercel.app/ MVP ('lucas@gmail.com' | 123123)
 - https://vlimob.vercel.app/ MVP
 - https://carona-na-brisa.vercel.app/ MVP
 
