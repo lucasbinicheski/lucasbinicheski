@@ -132,6 +132,3 @@ Portfólio:
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbinicheski&hide=contribs,prs)
