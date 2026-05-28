@@ -13,10 +13,6 @@ Com mais de 5 anos de experiência, <br/>Tenho conhecimentos sólidos em:
 - Gerenciamento de estado com React Query, Jotai, Redux
 - Integração com Axios e boas práticas de requisições
 
----
-
-Portfólio:
- https://lucasbiniportfolio.vercel.app/
 
 ---
 
